@@ -25,7 +25,7 @@
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "Your Telegram Bot Token, get it from @Botfather",
+        "description": "Your Telegram Bot Token, get it from @Botfather XD",
         "required": true
       },
       "SESSION_STRING": {
